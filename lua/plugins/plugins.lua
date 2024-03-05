@@ -18,4 +18,8 @@ return {
     end,
     event = "VimEnter",
   },
+  {
+    "folke/flash.nvim",
+    enabled = false,
+  },
 }

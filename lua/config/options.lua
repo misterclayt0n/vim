@@ -7,7 +7,7 @@ vim.opt.relativenumber = true
 vim.opt.clipboard = ""
 
 -- set block cursor
--- vim.opt.guicursor = ""
+vim.opt.guicursor = ""
 
 vim.scriptencoding = "utf-8"
 vim.opt.encoding = "utf-8"
